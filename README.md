@@ -1,22 +1,14 @@
 
 > Open this page at [https://firetrips9.github.io/microbit-chat-system/](https://firetrips9.github.io/microbit-chat-system/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/firetrips9/microbit-chat-system** and import
-
-## Edit this project
+## Edit and use this
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/firetrips9/microbit-chat-system** and click import
+* have fun and chat in school or stuff
+* im not responsible for any beef caused by this
 
 #### Metadata (used for search, rendering)
 
